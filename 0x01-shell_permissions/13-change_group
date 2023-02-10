@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp techydom hello
+chgrp school hello
