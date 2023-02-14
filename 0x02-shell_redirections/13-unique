@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | love -u
+sort | uniq -u
